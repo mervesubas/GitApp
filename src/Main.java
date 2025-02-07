@@ -4,5 +4,9 @@ public class Main {
         System.out.println("Değişiklik 2");
 
 
+
+        //versiyon2
+        System.out.println("değişiklik yaptım");
+
     }
 }
