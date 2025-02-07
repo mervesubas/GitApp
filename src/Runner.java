@@ -8,5 +8,8 @@ public class Runner {
         //yeni kodlar ekledim
         //versiyon6
 
+
+        //githup değişiklik
+
     }
 }
