@@ -5,7 +5,8 @@ public class Runner {
         //versiyon1
         System.out.println("Değişiklik 1");
 
-
+        //yeni kodlar ekledim
+        //versiyon6
 
     }
 }
