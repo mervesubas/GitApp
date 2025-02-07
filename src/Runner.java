@@ -17,5 +17,8 @@ public class Runner {
         System.out.println("değişiklik11");
 
 
+        //versiyon5
+        System.out.println("değişiklik11");
+
     }
 }
